@@ -1,7 +1,5 @@
 <div dir="rtl">
 
-# **نسخه فارسی:** 
-
 # آموزش Git و Markdown
 
 به مخزن **Git and Markdown Tutorials** خوش آمدید! 🎉
